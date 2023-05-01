@@ -9,7 +9,7 @@ setup(
     install_requires=[
         'bson==0.5.10',
         'cachetools==4.1.1',
-        'flask==1.1.2',
+        'flask==2.3.2',
         'pymongo==3.10.1',
     ],
     test_suite='tests',
